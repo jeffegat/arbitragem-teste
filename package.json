@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "axios": "^0.27.2",
+    "crypto.js": "^3.0.0",
+    "dotenv": "^16.0.1",
+    "ws": "^8.8.0"
+  },
+  "name": "arbitragem-teste",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node -r dotenv/config index"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
